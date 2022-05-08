@@ -1,6 +1,6 @@
 # NOTE : Please change the image path before writing this code on your System.
 # First of all, Download & save all image in one Folder. Then, one by one copy the path of image and then paste it in this code.
-# Match all images according to "Demo_Structure.png" File Which is already Provided in this repo.
+# Match all images according to "Demo_Structure.jpg" File Which is already Provided in this repo.
 
 from tkinter import *
 
