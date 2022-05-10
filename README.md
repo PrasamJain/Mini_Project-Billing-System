@@ -1,7 +1,7 @@
                                                 #############   Mini_Project-Billing-System   ###############
                                                 
                                 In this repo, We can create a Billing System ( for Bar ) using Python Graphics (Tkinter).  
----------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------_
 
 
 Python has a lot of GUI frameworks, but Tkinter is the only framework that’s built into the Python standard library. 
